@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("fuck you")})();
+(()=>{"use strict";alert("works two"),function(e,t){for(i=0;i<t.length;i++){let e=document.createElement("div");e.setAttribute("id",`${t[i]}`),e.innerText=`${t[i]}`,undefined.appendChild(e)}}(),console.log("fuck you")})();
